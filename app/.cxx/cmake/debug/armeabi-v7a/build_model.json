@@ -1,0 +1,73 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\androidDemo\\JNITest",
+      "sdkFolder": "C:\\Users\\zsw\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\androidDemo\\JNITest\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\androidDemo\\JNITest\\app",
+      "makeFile": "D:\\androidDemo\\JNITest\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\androidDemo\\JNITest\\.cxx",
+      "cxxFolder": "D:\\androidDemo\\JNITest\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\zsw\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_ARM_NEON\u003dTRUE",
+      "-DANDROID_CPP_FEATURES\u003drtti exceptions"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "D:\\androidDemo\\JNITest\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\androidDemo\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+  "jsonFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "D:\\androidDemo\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a",
+  "buildCommandFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\androidDemo\\JNITest\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\compile_commands.json"
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+1	457	604412947	CMakeFiles/native-lib.dir/native-lib.cpp.o	349f3c5b0a1750de
+458	583	604412947	D:/androidDemo/JNITest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	dcfeb639ae9ce43b
+7	695	604486802	CMakeFiles/native-lib.dir/native-lib.cpp.o	68efe47b43d7ed12
+695	927	604486802	D:/androidDemo/JNITest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	dcfeb639ae9ce43b
+4	470	604486853	CMakeFiles/native-lib.dir/native-lib.cpp.o	68efe47b43d7ed12
+471	600	604486853	D:/androidDemo/JNITest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	dcfeb639ae9ce43b
+4	318	604486899	D:/androidDemo/JNITest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	dcfeb639ae9ce43b
+4	281	604486982	D:/androidDemo/JNITest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	dcfeb639ae9ce43b
